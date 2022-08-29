@@ -1,5 +1,5 @@
 result=$(curl ifconfig.me)
-result2=$(cat /home/$USER/ip.txt)
+result2=$(cat /home/$USER/.config/ip.txt)
 
 if [ $result == $result2 ]; then
         echo "nothing"
