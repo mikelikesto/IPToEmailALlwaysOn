@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo mv 
+chmod +x iptoemailon.sh && sudo mv iptoemailon.sh /bin 
