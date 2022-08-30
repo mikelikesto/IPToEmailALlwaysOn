@@ -1,3 +1,18 @@
 # IPToEmailALlwaysOn
 
-TO USE, SET UP WITH CRONTAB
+
+
+installation 
+
+
+------------------
+    chmod +x install.sh && ./install.sh
+-----------------
+
+
+To test if the program is working, type :
+
+
+------------------
+    ./iptoemail.sh
+-----------------
