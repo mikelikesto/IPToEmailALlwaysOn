@@ -19,9 +19,16 @@ Install crontab and type:
 
 Then to schedule what time for the program to run look at 
 
+For using the nano editor:
 
- ./
 
+
+
+
+------------------
+
+EDITOR=nano crontab -e
+-----------------
 
 
 
