@@ -27,7 +27,7 @@ For using the nano editor:
 
 ------------------
 
-EDITOR=nano crontab -e
+    EDITOR=nano crontab -e
 -----------------
 
 
